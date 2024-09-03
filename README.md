@@ -1,8 +1,14 @@
-# React + Vite
+Rental Camper Rental Camper - це веб-додаток для оренди кемперів, розроблений з
+використанням React і Vite. Цей проєкт надає інтерфейс для перегляду, вибору та
+бронювання кемперів для подорожей.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Функціональні можливості Каталог кемперів: Перегляд доступних для оренди
+кемперів з детальною інформацією про кожен з них. Фільтри: Зручний пошук та
+фільтрація кемперів за різними параметрами (ціна, кількість місць, тип кемпера
+тощо). Реєстрація та вхід: Авторизація користувачів для бронювання кемперів.
+Сторінка бронювання: Форма для бронювання кемпера на обрані дати. Історія
+бронювань: Перегляд минулих та поточних бронювань користувача. Технології React:
+Основний JavaScript фреймворк для побудови користувацького інтерфейсу. Vite:
+Інструмент для швидкої розробки та білду проєкту. React Router: Управління
+маршрутизацією та навігацією в додатку. Axios: Бібліотека для роботи з API
+запитами.
